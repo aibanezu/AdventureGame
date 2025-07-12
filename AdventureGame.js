@@ -6,12 +6,11 @@ to make choices that affect the outcome of the game.
 The player will be able to choose their own path and the story will change
 based on their decisions.
 */
+console.log("=================================");
+console.log("       The Dragon's Quest        ");
+console.log("=================================");
+console.log("\nYour quest: Defeat the dragon in the mountains!");
 
-// Display the game title
-console.log("Welcome to the Adventure Game");
-
-// Add a welcome message
-console.log("Prepare yourself for an epic journey!");
 
 let playerName = "";
 let playerHealth = 100;
